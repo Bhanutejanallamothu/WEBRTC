@@ -1,1 +1,6 @@
 log.txt
+
+
+# Security & Build Hygeine additions
+.env
+*.env
